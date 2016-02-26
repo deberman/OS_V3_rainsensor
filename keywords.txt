@@ -1,0 +1,6 @@
+OS_v3_rainsensor	KEYWORD1
+setChannel	KEYWORD2
+setRainRate	KEYWORD2
+setTotalRain	KEYWORD2
+setBatteryStatus	KEYWORD2
+buildAndSendPacket	KEYWORD2
